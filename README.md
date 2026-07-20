@@ -45,19 +45,7 @@ project/
    streamlit run app.py
    ```
 
----
 
-## ✅ État d'avancement
-
-| Page | Statut |
-|---|---|
-| 🏠 Dashboard | ✅ Fait (KPI + graphiques Plotly) |
-| 💰 Estimation | ✅ Fait (estimation + score qualité) |
-| 📊 Analyse du marché | 🚧 Étape C |
-| 🧠 Explainable AI (SHAP) | 🚧 Étape D |
-| 🏆 Comparaison modèles | ✅ Fait (7 modèles + graphiques) |
-| 💡 Insights | 🚧 Étape F |
-| 🗺️ Carte interactive | 🚧 Étape G |
 
 ---
 
